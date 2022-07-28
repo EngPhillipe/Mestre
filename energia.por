@@ -6,7 +6,7 @@ programa
 	{
 		real leiturainicial, leiturafinal, valor, total_consumo
 	
-		
+		//programa de verificação de energia
 		escreva("QUAL VALOR DA SUA LEITURA INICIAL?\n")
 		leia(leiturainicial)
 		escreva("QUAL VALOR DA SUA LEITURA FINAL?\n ")
@@ -32,7 +32,7 @@ programa
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 524; 
+ * @POSICAO-CURSOR = 167; 
  * @PONTOS-DE-PARADA = ;
  * @SIMBOLOS-INSPECIONADOS = ;
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;
